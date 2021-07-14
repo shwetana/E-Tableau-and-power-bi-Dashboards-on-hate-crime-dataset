@@ -1,3 +1,3 @@
-# E-Tableau-and-power-bi-Dashboards-on-hate-crime-dataset
+# Tableau-and-power-bi-Dashboards-on-hate-crime-dataset
 
-dashboard can be directly execuated.
+dashboards in tableau and power bi for reference.
